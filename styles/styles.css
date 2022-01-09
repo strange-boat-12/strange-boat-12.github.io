@@ -1,0 +1,40 @@
+h1 {
+  color: green;
+}
+
+ol {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 12pt;
+}
+h2 {
+  font-weight: normal;
+}
+li {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#tips {
+  color: brown;
+  font-weight: bold;
+}
+
+.headline {
+  color: red;
+  font-variant: small-caps;
+}
+
+ing {
+  height: 300px;
+}
+
+#notice {
+  color: indigo;
+  text-align: center;
+}
+
+.vocab {
+  font-weight: bold;
+  font-style: italic;
+}
